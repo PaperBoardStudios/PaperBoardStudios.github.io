@@ -8,7 +8,7 @@ var main = (function($) { var _ = {
 	settings: {
 
 		// Preload all images.
-			preload: false,
+			preload: true,
 
 		// Slide duration (must match "duration.slide" in _vars.scss).
 			slideDuration: 500,
